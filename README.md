@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, I am Dara👏🏾.<br>Welcome to my space.<br>I am a software developer with a passion for creating innovative solutions to real-world problems.  <br>Here, you will find my thoughts and musings on the world of software development. Whether you're a fellow developer looking for insights and inspiration, or just someone interested in learning more about the tech industry, I hope you'll find something of value here. Thanks for visiting, and I look forward to sharing my work with you. !
+Dara👏🏾.<br>Welcome to my space.<br>I am a software developer with a passion for creating innovative solutions to real-world problems.  <br>Here, you will find my thoughts and musings on the world of software development. Whether you're a fellow developer looking for insights and inspiration, or just someone interested in learning more about the tech industry, I hope you'll find something of value here. Thanks for visiting, and I look forward to sharing my work with you. !
 
 
 ## 🌐 Socials:
