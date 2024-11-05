@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dara👏🏾. <br> I am a software developer with a passion for creating innovative solutions to real-world problems. <br>
+Dara <br> I am a software developer with a passion for creating innovative solutions to real-world problems. <br>
 
 # 📊 GitHub Stats:
 
